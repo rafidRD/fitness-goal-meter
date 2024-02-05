@@ -105,7 +105,7 @@ body {
 .range__value__text--bottom {
   margin-top: 10px;
 }
-footer {
+menu, article, aside, details, footer, header, nav, section {
     display: block;
     margin-top: -20px;
 }
