@@ -4,23 +4,6 @@ body {
   overflow: hidden;
 }
 
-.img-shadow{
-  float: left;
-  margin: 10px 0 0 10px;
-  background-image: url(images/shadow.png);
-  background-position: bottom right;
-  background-repeat: no-repeat;
-  
-}
-
-
-.img-shadow img{
-display: block;    
-position: relative;
-margin: -6px 6px 6px -6px;
-padding: 0px;
-}
-
 .range__wrapper {
   position: absolute;
   left: 50%;
@@ -121,4 +104,8 @@ padding: 0px;
 
 .range__value__text--bottom {
   margin-top: 10px;
+}
+footer {
+    display: block;
+    margin-top: -20px;
 }
